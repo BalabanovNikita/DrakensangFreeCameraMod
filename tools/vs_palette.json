@@ -1,0 +1,1112 @@
+[
+ {
+  "code": "rock-andesite",
+  "family": "stone",
+  "rgb": [
+   114.6,
+   123.5,
+   130.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-andesite",
+  "family": "stone",
+  "rgb": [
+   101.7,
+   110.4,
+   117.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-chalk",
+  "family": "stone",
+  "rgb": [
+   190.4,
+   189.4,
+   182.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-chalk",
+  "family": "stone",
+  "rgb": [
+   156.8,
+   155.6,
+   148.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-chert",
+  "family": "stone",
+  "rgb": [
+   110.3,
+   81.0,
+   62.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-chert",
+  "family": "stone",
+  "rgb": [
+   96.9,
+   68.2,
+   49.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-conglomerate",
+  "family": "stone",
+  "rgb": [
+   133.1,
+   120.1,
+   93.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-conglomerate",
+  "family": "stone",
+  "rgb": [
+   116.8,
+   104.0,
+   78.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-limestone",
+  "family": "stone",
+  "rgb": [
+   182.7,
+   172.1,
+   144.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-limestone",
+  "family": "stone",
+  "rgb": [
+   143.8,
+   132.1,
+   103.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-claystone",
+  "family": "stone",
+  "rgb": [
+   149.1,
+   120.7,
+   85.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-claystone",
+  "family": "stone",
+  "rgb": [
+   128.2,
+   100.3,
+   66.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-granite",
+  "family": "stone",
+  "rgb": [
+   145.0,
+   138.8,
+   126.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-granite",
+  "family": "stone",
+  "rgb": [
+   112.1,
+   106.2,
+   93.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-sandstone",
+  "family": "stone",
+  "rgb": [
+   196.9,
+   157.2,
+   102.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-sandstone",
+  "family": "stone",
+  "rgb": [
+   181.3,
+   141.9,
+   88.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-shale",
+  "family": "stone",
+  "rgb": [
+   75.7,
+   75.7,
+   75.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-shale",
+  "family": "stone",
+  "rgb": [
+   75.1,
+   75.0,
+   74.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-basalt",
+  "family": "stone",
+  "rgb": [
+   51.6,
+   51.6,
+   51.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-basalt",
+  "family": "stone",
+  "rgb": [
+   55.8,
+   55.8,
+   55.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-peridotite",
+  "family": "stone",
+  "rgb": [
+   111.8,
+   108.6,
+   75.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-peridotite",
+  "family": "stone",
+  "rgb": [
+   93.8,
+   89.3,
+   56.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-phyllite",
+  "family": "stone",
+  "rgb": [
+   127.1,
+   117.2,
+   114.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-phyllite",
+  "family": "stone",
+  "rgb": [
+   112.9,
+   102.6,
+   99.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-slate",
+  "family": "stone",
+  "rgb": [
+   69.1,
+   57.1,
+   51.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-slate",
+  "family": "stone",
+  "rgb": [
+   64.6,
+   52.9,
+   47.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-obsidian",
+  "family": "stone",
+  "rgb": [
+   17.4,
+   10.8,
+   25.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-obsidian",
+  "family": "stone",
+  "rgb": [
+   22.3,
+   16.8,
+   29.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-kimberlite",
+  "family": "stone",
+  "rgb": [
+   105.4,
+   118.6,
+   112.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-kimberlite",
+  "family": "stone",
+  "rgb": [
+   90.4,
+   103.3,
+   96.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-scoria",
+  "family": "stone",
+  "rgb": [
+   103.8,
+   92.8,
+   90.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-scoria",
+  "family": "stone",
+  "rgb": [
+   85.8,
+   76.6,
+   75.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-tuff",
+  "family": "stone",
+  "rgb": [
+   87.4,
+   56.1,
+   29.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-tuff",
+  "family": "stone",
+  "rgb": [
+   72.0,
+   46.0,
+   23.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-bauxite",
+  "family": "stone",
+  "rgb": [
+   185.7,
+   102.7,
+   52.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-bauxite",
+  "family": "stone",
+  "rgb": [
+   167.5,
+   86.7,
+   38.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-halite",
+  "family": "stone",
+  "rgb": [
+   215.1,
+   189.1,
+   178.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-halite",
+  "family": "stone",
+  "rgb": [
+   178.2,
+   156.6,
+   147.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-suevite",
+  "family": "stone",
+  "rgb": [
+   115.2,
+   120.7,
+   111.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-suevite",
+  "family": "stone",
+  "rgb": [
+   105.8,
+   106.1,
+   98.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-whitemarble",
+  "family": "stone",
+  "rgb": [
+   197.7,
+   200.5,
+   200.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-whitemarble",
+  "family": "stone",
+  "rgb": [
+   136.5,
+   139.7,
+   139.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-redmarble",
+  "family": "stone",
+  "rgb": [
+   193.7,
+   170.3,
+   145.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-redmarble",
+  "family": "stone",
+  "rgb": [
+   163.6,
+   139.3,
+   114.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-greenmarble",
+  "family": "stone",
+  "rgb": [
+   177.1,
+   179.0,
+   162.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "cobblestone-greenmarble",
+  "family": "stone",
+  "rgb": [
+   139.6,
+   141.0,
+   124.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rock-travertine",
+  "family": "stone",
+  "rgb": [
+   205.0,
+   183.0,
+   152.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rockpolished-whitemarble",
+  "family": "stone",
+  "rgb": [
+   182.5,
+   187.9,
+   187.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rockpolished-greenmarble",
+  "family": "stone",
+  "rgb": [
+   161.4,
+   162.2,
+   141.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rockpolished-redmarble",
+  "family": "stone",
+  "rgb": [
+   181.9,
+   150.1,
+   119.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rockpolished-suevite",
+  "family": "stone",
+  "rgb": [
+   89.5,
+   95.7,
+   85.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "rockpolished-kimberlite",
+  "family": "stone",
+  "rgb": [
+   80.8,
+   95.1,
+   87.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "stonebricks-suevite",
+  "family": "stone",
+  "rgb": [
+   79.1,
+   82.0,
+   77.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "stonebricks-travertine",
+  "family": "stone",
+  "rgb": [
+   191.9,
+   170.6,
+   141.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-birch-ud",
+  "family": "wood",
+  "rgb": [
+   168.4,
+   141.8,
+   101.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-birch-ud",
+  "family": "wood",
+  "rgb": [
+   186.8,
+   181.0,
+   158.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-oak-ud",
+  "family": "wood",
+  "rgb": [
+   128.4,
+   97.9,
+   70.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-oak-ud",
+  "family": "wood",
+  "rgb": [
+   86.9,
+   69.0,
+   58.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-maple-ud",
+  "family": "wood",
+  "rgb": [
+   105.5,
+   86.2,
+   37.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-maple-ud",
+  "family": "wood",
+  "rgb": [
+   102.1,
+   96.5,
+   103.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-pine-ud",
+  "family": "wood",
+  "rgb": [
+   134.9,
+   89.9,
+   36.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-pine-ud",
+  "family": "wood",
+  "rgb": [
+   139.4,
+   100.6,
+   82.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-acacia-ud",
+  "family": "wood",
+  "rgb": [
+   119.5,
+   67.4,
+   44.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-acacia-ud",
+  "family": "wood",
+  "rgb": [
+   111.2,
+   89.0,
+   86.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-kapok-ud",
+  "family": "wood",
+  "rgb": [
+   140.4,
+   106.5,
+   61.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-kapok-ud",
+  "family": "wood",
+  "rgb": [
+   116.0,
+   115.9,
+   81.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-baldcypress-ud",
+  "family": "wood",
+  "rgb": [
+   184.7,
+   173.1,
+   145.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-baldcypress-ud",
+  "family": "wood",
+  "rgb": [
+   154.1,
+   125.4,
+   105.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-larch-ud",
+  "family": "wood",
+  "rgb": [
+   194.4,
+   163.5,
+   133.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-larch-ud",
+  "family": "wood",
+  "rgb": [
+   120.1,
+   114.7,
+   107.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-redwood-ud",
+  "family": "wood",
+  "rgb": [
+   190.6,
+   129.7,
+   98.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-redwood-ud",
+  "family": "wood",
+  "rgb": [
+   74.8,
+   38.6,
+   19.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-ebony-ud",
+  "family": "wood",
+  "rgb": [
+   78.8,
+   59.4,
+   47.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-ebony-ud",
+  "family": "wood",
+  "rgb": [
+   96.8,
+   76.1,
+   59.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-walnut-ud",
+  "family": "wood",
+  "rgb": [
+   114.4,
+   95.7,
+   88.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-walnut-ud",
+  "family": "wood",
+  "rgb": [
+   93.0,
+   81.7,
+   77.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-purpleheart-ud",
+  "family": "wood",
+  "rgb": [
+   110.9,
+   62.5,
+   76.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "log-placed-purpleheart-ud",
+  "family": "wood",
+  "rgb": [
+   105.0,
+   84.8,
+   64.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-aged-ud",
+  "family": "wood",
+  "rgb": [
+   96.8,
+   77.8,
+   62.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "planks-veryaged-ud",
+  "family": "wood",
+  "rgb": [
+   54.8,
+   49.8,
+   34.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "brickcourse-four-running-black",
+  "family": "brick",
+  "rgb": [
+   47.1,
+   43.4,
+   38.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "brickcourse-four-running-brown",
+  "family": "brick",
+  "rgb": [
+   69.4,
+   48.3,
+   28.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "brickcourse-four-running-cream",
+  "family": "brick",
+  "rgb": [
+   177.8,
+   165.3,
+   137.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "brickcourse-four-running-gray",
+  "family": "brick",
+  "rgb": [
+   48.3,
+   47.7,
+   44.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "brickcourse-four-running-orange",
+  "family": "brick",
+  "rgb": [
+   101.8,
+   55.9,
+   29.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "brickcourse-four-running-red",
+  "family": "brick",
+  "rgb": [
+   85.5,
+   35.4,
+   27.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "brickcourse-four-running-tan",
+  "family": "brick",
+  "rgb": [
+   95.1,
+   67.1,
+   37.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-blue",
+  "family": "tile",
+  "rgb": [
+   71.1,
+   62.4,
+   56.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-fire",
+  "family": "tile",
+  "rgb": [
+   163.3,
+   133.3,
+   95.9
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-black",
+  "family": "tile",
+  "rgb": [
+   59.5,
+   56.8,
+   50.1
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-brown",
+  "family": "tile",
+  "rgb": [
+   98.0,
+   78.1,
+   51.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-cream",
+  "family": "tile",
+  "rgb": [
+   171.4,
+   160.4,
+   132.3
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-earthyorange",
+  "family": "tile",
+  "rgb": [
+   84.5,
+   64.1,
+   43.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-gray",
+  "family": "tile",
+  "rgb": [
+   79.1,
+   80.1,
+   73.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-orange",
+  "family": "tile",
+  "rgb": [
+   116.5,
+   76.0,
+   47.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-red",
+  "family": "tile",
+  "rgb": [
+   129.7,
+   78.4,
+   57.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "tile-2x2-plain-tan",
+  "family": "tile",
+  "rgb": [
+   136.6,
+   107.9,
+   66.6
+  ],
+  "enabled": true
+ },
+ {
+  "code": "plaster-plain",
+  "family": "plaster",
+  "rgb": [
+   193.8,
+   192.8,
+   185.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "plaster-square",
+  "family": "plaster",
+  "rgb": [
+   136.2,
+   133.2,
+   123.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-ash-normal",
+  "family": "plaster",
+  "rgb": [
+   140.1,
+   138.9,
+   134.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-blue-normal",
+  "family": "plaster",
+  "rgb": [
+   76.1,
+   74.1,
+   71.4
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-brown-normal",
+  "family": "plaster",
+  "rgb": [
+   83.9,
+   66.6,
+   54.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-browngolden-normal",
+  "family": "plaster",
+  "rgb": [
+   138.2,
+   114.0,
+   84.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-brownlight-normal",
+  "family": "plaster",
+  "rgb": [
+   179.1,
+   161.8,
+   149.2
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-brownweathered-normal",
+  "family": "plaster",
+  "rgb": [
+   123.2,
+   107.7,
+   95.0
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-green-normal",
+  "family": "plaster",
+  "rgb": [
+   114.7,
+   113.1,
+   79.8
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-orange-normal",
+  "family": "plaster",
+  "rgb": [
+   164.2,
+   106.4,
+   67.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-pink-normal",
+  "family": "plaster",
+  "rgb": [
+   198.0,
+   134.9,
+   104.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-tan-normal",
+  "family": "plaster",
+  "rgb": [
+   160.6,
+   144.6,
+   132.7
+  ],
+  "enabled": true
+ },
+ {
+  "code": "daub-yellow-normal",
+  "family": "plaster",
+  "rgb": [
+   176.7,
+   144.1,
+   92.5
+  ],
+  "enabled": true
+ },
+ {
+  "code": "water-still-7",
+  "family": "water",
+  "rgb": [
+   137.3,
+   137.3,
+   137.3
+  ],
+  "enabled": true
+ }
+]
